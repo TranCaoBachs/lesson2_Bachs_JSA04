@@ -1,0 +1,43 @@
+h1{
+    color: aquamarine;
+    text-align: center;
+}
+body{
+    background-color: azure;
+}
+.name{
+    color: blueviolet;
+    margin-left: 35%;
+}
+img{
+    margin-left: 40%;
+    width: 20%;
+    height: 10%;
+}
+.yy{
+    margin-left: 35%;
+    color: crimson;
+}
+.hbyy{
+    margin-left: 35% ;
+    color: lawngreen;
+}
+.menu {
+    background-color: blanchedalmond;
+    padding: 10px;
+    box-sizing: border-box;
+}
+.menu li {
+    display: inline;
+    margin-left: 20px;
+}
+
+.menu li a {
+    color: white;
+    font-size:20px;
+    text-decoration: none;
+}
+
+.menu li a:hover {
+    color: goldenrod;
+}
